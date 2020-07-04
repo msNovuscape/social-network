@@ -1,0 +1,26 @@
+.new-post{
+    padding: 16px 0;
+    border-bottom: 1px solid #cccccc;
+}
+
+.new-post header, .posts header{
+    margin-bottom: 20px;
+}
+
+.posts .post{
+    padding-left: 10px;
+    border-left: 3px solid #a21b24;
+    margin-bottom: 30px;
+}
+
+.posts .post .info{
+    color: #aaaaaa;
+    font-style: italic;
+}
+.error{
+    color: red;
+}
+.success{
+    text-align: center;
+    color: green;
+}
